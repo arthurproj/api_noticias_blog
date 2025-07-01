@@ -1,1 +1,1 @@
-Blog feito para prática de consumo de API para design gráfico 2.
+Blog feito para práticar o consumo de APIs externas, utilizando Angular para construção do site.
